@@ -1070,7 +1070,7 @@
 			<key>MLB</key>
 			<string>C02853207CDLNV91F</string>
 			<key>ProcessorType</key>
-			<integer>4105</integer>
+			<integer>0</integer>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -1082,7 +1082,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C02Y11ZHJV3Q</string>
 			<key>SystemUUID</key>
-			<string>E868B39F-56F0-4DA4-A4AE-51F61E6B089E</string>
+			<string>596E5E95-8D6D-40BE-A11E-8DE09FA5C8A7</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
