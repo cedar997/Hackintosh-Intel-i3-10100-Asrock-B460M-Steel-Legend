@@ -13,21 +13,16 @@ DISPLAY: hdmi 120hz lcd
 
 # Thanks for 
 - https://github.com/ducnm9/Hackintosh-Intel-i5-10400-Asrock-B460M-Steel-Legend
+- But the hdmi port don't work well,so I fixed it use hackintools .
+
 # Thing Works
 - Onboard HDMI port 
 - Sleep
 - Wake
 - Audio (select internal speakers)
 - Ethernet
-- Bluetooth
-- WiFi
 - All USB ports (Full 3.0 + 2.0 + type C)
 
-Note: Realtek 8125 Ethernet card required to manually set to 1000baseTx to work
-![Realtek 8125 Ethernet](/images/net.png)
-
-# Result
-![Info](/images/infomac.png)
 
 
 # Note For You
