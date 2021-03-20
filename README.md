@@ -1,4 +1,4 @@
-# Hackintosh-Intel-i5-10400-Asrock-B460M-Steel-Legend
+# Hackintosh-Intel-i3-10100-Asrock-B460M-Steel-Legend
 
 # Info PC
 ```
