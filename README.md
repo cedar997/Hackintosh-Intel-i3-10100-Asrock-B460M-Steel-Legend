@@ -22,8 +22,10 @@ DISPLAY: hdmi 120hz lcd
 - Audio (select internal speakers)
 - Ethernet
 - All USB ports (Full 3.0 + 2.0 + type C)
-
-
+# About this computer
+![image](images/about.png)
+# Fix NetWork
+![image](images/net.png)
 
 # Note For You
 The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID into your code
